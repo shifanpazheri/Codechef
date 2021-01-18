@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+//Partially Correct
 #define int long long
 using namespace std;
 const int N = 1e5; //constant for global variable declarations
