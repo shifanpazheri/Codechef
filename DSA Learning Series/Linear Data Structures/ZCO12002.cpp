@@ -3,6 +3,7 @@
 using namespace std;
 const int N = 1e5; //constant for global variable declarations
 
+
 //templete from contest2 part1 video
 
 int32_t main() {
